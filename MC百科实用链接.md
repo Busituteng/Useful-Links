@@ -14,7 +14,7 @@ MCBBS
 https://www.mcbbs.net/
 
 Minecraft Wiki  
-https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
+https://zh.minecraft.wiki/
 
 背景制作  
 http://minecraft.novaskin.me/wallpapers
